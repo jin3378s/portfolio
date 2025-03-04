@@ -1,3 +1,5 @@
 package test.portfolio.eventsourcing
 
-data class UsernameChanged()
+data class UserNameChanged(
+    val name: String,
+)
