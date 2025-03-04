@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/springframework" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/springframework" />
+            <option value="$PROJECT_DIR$/springframework/foundation" />
+            <option value="$PROJECT_DIR$/springframework/foundation/eventsourcing" />
+            <option value="$PROJECT_DIR$/springframework/foundation/eventsourcing/abstraction" />
+            <option value="$PROJECT_DIR$/springframework/foundation/eventsourcing/jpa" />
+            <option value="$PROJECT_DIR$/springframework/foundation/eventsourcing/unit-tests" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
