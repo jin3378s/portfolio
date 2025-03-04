@@ -1,0 +1,3 @@
+include(
+    "foundation:eventsourcing:abstraction"
+)
